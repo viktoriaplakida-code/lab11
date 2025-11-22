@@ -1,0 +1,55 @@
+body{
+    background-color: #CDB08E;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+}
+p{
+    font-size: 25px;
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+a:hover{
+    color: #9524ff;
+    font-size: 22px;
+}
+.menu{
+    display: inline-block;
+    margin-right: 30px;
+}
+td{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 40px;
+}
+.foto1{
+    width: 60px;
+    height: 60px;
+}
+.foto2{
+    width: 45px;
+    height: 45px;
+    padding-top: -40px;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+}
+.infrmation{
+    margin-top: 600px;
+}
+.project{
+    width: 300px;
+    height: 500px;
+}
+.project1{
+    width: 700px;
+    height: 500px;
+}
